@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sushil!
 
-<!--
-**Sushil113/Sushil113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a passionate and versatile full-stack developer with experience across a wide range of technologies. I love building scalable web applications, mobile apps, and APIs that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Backend:**
+- PHP, Laravel, CodeIgniter
+- Node.js, NestJS
+- Java, C#
+- MySQL, Redis, Firebase
+- RESTful APIs, Docker
+
+**Frontend:**
+- jQuery, Bootstrap, Tailwind CSS
+
+**Mobile:**
+- Mobile App Development (Android & Cross-platform)
+
+## 💡 What I Do
+- Develop secure and scalable web apps
+- Build REST APIs for mobile and web integration
+- Work with real-time databases and cloud messaging (Firebase)
+- Containerize applications with Docker
+- Optimize performance and maintain clean, maintainable code
+
+## 📫 Let's Connect
+Feel free to check out my repositories, contribute, or reach out if you're interested in collaborating on something exciting!
+
+---
+
+Thanks for visiting! 😊
