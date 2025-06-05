@@ -17,18 +17,12 @@ I'm a passionate and versatile full-stack developer with experience across a wid
 - jQuery, Bootstrap, Tailwind CSS
 
 **Mobile:**
-- Mobile App Development (Android & Cross-platform)
+- Mobile App Development (Android)
 
 ## 💡 What I Do
 - Develop secure and scalable web apps
 - Build REST APIs for mobile and web integration
 - Work with real-time databases and cloud messaging (Firebase)
-- Containerize applications with Docker
 - Optimize performance and maintain clean, maintainable code
-
-## 📫 Let's Connect
-Feel free to check out my repositories, contribute, or reach out if you're interested in collaborating on something exciting!
-
----
 
 Thanks for visiting! 😊
