@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate and versatile full-stack developer with experience across a wide range of technologies. I love building scalable web applications, mobile apps, and APIs that solve real-world problems.
-
 ## 🚀 Tech Stack
 
 **Backend:**
@@ -13,16 +11,17 @@ I'm a passionate and versatile full-stack developer with experience across a wid
 - MySQL, Redis, Firebase
 - RESTful APIs, Docker
 
-**Frontend:**
-- jQuery, Bootstrap, Tailwind CSS
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushil113&theme=dark&hide_border=false)
+<br>
 
-**Mobile:**
-- Mobile App Development (Android)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil113&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-## 💡 What I Do
-- Develop secure and scalable web apps
-- Build REST APIs for mobile and web integration
-- Work with real-time databases and cloud messaging (Firebase)
-- Optimize performance and maintain clean, maintainable code
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sushil113&label=Profile%20views&color=0e75b6&style=flat" alt="Sushil113" />
+</p>
 
 Thanks for visiting! 😊
