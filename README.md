@@ -12,7 +12,13 @@ Welcome to my GitHub profile!
 - RESTful APIs, Docker
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sushil113&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sushil113&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil113&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushil113&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil113&theme=default_repocard&hide_border=false" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil113&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+</div>
