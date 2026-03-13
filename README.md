@@ -8,4 +8,3 @@ Welcome to my GitHub profile!
 - PHP, Laravel, CodeIgniter
 - MySQL, Redis, Firebase
 - RESTful APIs
-- 
