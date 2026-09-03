@@ -25,8 +25,7 @@ Backend Developer specializing in Laravel and PHP, based in Kathmandu, Nepal.
 - Postman, Swagger
 
 ## GitHub Stats
-
-![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushil113&show_icons=true&theme=default)
+![Metrics](https://raw.githubusercontent.com/Sushil113/Sushil113/main/github-metrics.svg)
 
 ## Connect
 
